@@ -22,6 +22,10 @@ Click on Drill Through on visual to go to Product Sale detail
 
 ![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/6218af9f-8bdb-4bc0-857b-d391a58ddda9)
 
+when we click on Drill down instead of Drill Through
+
+![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/42ecb21f-dc7b-4d9f-b4a3-1ff09d228b34)
+
 
 Tooltip:
 
@@ -53,9 +57,16 @@ Selecting Europe in Continent and 2021 in Year
 
 ![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/a0339f7a-96d2-4e15-89e9-ec5e4bb55648)
 
+Data Modeling Star Schema
 
-Drill Down:
+![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/fc27c1b3-0b83-441f-a48d-7f8b980463da)
 
-![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/97adda37-f658-4d02-bd09-aaa6b1f2cc05)
+Using DAX for Filter and All function
 
-![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/42ecb21f-dc7b-4d9f-b4a3-1ff09d228b34)
+![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/37caaaab-dde4-49cd-94a1-4a7c66930e3c)
+
+Managing Row-level Security (RLS) roles using DAX validating so we can later can add permission in Power BI service.
+
+![image](https://github.com/Hudabasit/PowerBI_Project/assets/134541252/458cf305-0b9a-4399-b754-abe4a30bdbfd)
+
+
